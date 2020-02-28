@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CREEPER HUNT</string>
+    <string name="application_author">Brian How</string>
+    <string name="mines_left">Found %d of %d mines</string>
+    <string name="scan_count"># Scans used: %d</string>
+    <string name="options">Options</string>
+    <string name="number_of_mines">Number of Mines</string>
+    <string name="board_size">Board Size</string>
+    <string name="_6_rows_by_15_columns">6 rows by 15 columns</string>
+    <string name="_5_rows_by_10_columns">5 rows by 10 columns</string>
+    <string name="_4_rows_by_6_columns">4 rows by 6 columns</string>
+    <string name="_6_mines">6 mines</string>
+    <string name="_10_mines">10 mines</string>
+    <string name="_15_mines">15 mines</string>
+    <string name="_20_mines">20 mines</string>
+    <string name="skip">skip</string>
+    <string name="help">Help</string>
+    <string name="play_game">Play Game</string>
+    <string name="author_description">The author is a minecraft veteran who created this game as an assignment for
+        <a href="\https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt276/home">CMPT 276</a></string>
+    <string name="about_the_author">About the Author</string>
+    <string name="game_description">Your mission, if you choose to accept it, is to locate all creepers in the given area.
+    To do locate creepers tap on a tile to investigate it. If there is a creeper it will be shown, if not a scan will be activated
+    indicating how many hidden creepers are in that row and column. Use this information wisely and aim for the least number of scans required to find
+    all the creepers!</string>
+    <string name="minecraft_font_by_pwnage_block">minecraft_font by Pwnage Block</string>
+    <string name="citations">Citations</string>
+    <string name="about_the_game">About the Game</string>
+    <string name="background"><a href="https://www.wallpaperup.com/12512/Minimalistic_pixels_dirt_minecraft_pixelation_simple_background.html">Dirt Background</a>
+    <a href ="https://ya-webdesign.com/explore/vector-radar-psd/">Radar Image</a></string>
+    <string name="enchanting_bottle_and_creeper_face_from_minecraft"><a href ="https://minecraft.gamepedia.com/Bottle_o%27_Enchanting">Enchanting bottle</a> and
+        <a href ="https://minecraft.gamepedia.com/Creeper">Creeper face</a> from Minecraft textures
+    </string>
+    <string name="dialog_text">Good job! You have won!</string>
+    <string name="dialog_title">You won!</string>
+    <string name="dialog_button">Go back to Main Menu</string>
+</resources>
